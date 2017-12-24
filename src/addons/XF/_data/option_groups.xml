@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<option_groups>
+  <group group_id="acp" display_order="5000" debug_only="0"/>
+  <group group_id="alerts" display_order="130" debug_only="0"/>
+  <group group_id="appearance" display_order="40" debug_only="0"/>
+  <group group_id="attachments" display_order="620" debug_only="0"/>
+  <group group_id="basicBoard" display_order="20" debug_only="0"/>
+  <group group_id="boardActive" display_order="10" debug_only="0"/>
+  <group group_id="censoringOptions" display_order="60" debug_only="0"/>
+  <group group_id="debug" display_order="0" debug_only="1"/>
+  <group group_id="discourager" display_order="140" debug_only="0"/>
+  <group group_id="discussionOptions" display_order="520" debug_only="0"/>
+  <group group_id="emailOptions" display_order="50" debug_only="0"/>
+  <group group_id="imageLinkProxy" display_order="640" debug_only="0"/>
+  <group group_id="logging" display_order="810" debug_only="0"/>
+  <group group_id="mediaEmbedding" display_order="630" debug_only="0"/>
+  <group group_id="messageOptions" display_order="611" debug_only="0"/>
+  <group group_id="newsfeed" display_order="3000" debug_only="0"/>
+  <group group_id="nodeList" display_order="510" debug_only="0"/>
+  <group group_id="performance" display_order="30" debug_only="0"/>
+  <group group_id="searchOptions" display_order="710" debug_only="0"/>
+  <group group_id="seo" display_order="80" debug_only="0"/>
+  <group group_id="serviceProviders" display_order="4000" debug_only="0"/>
+  <group group_id="sharing" display_order="210" debug_only="0"/>
+  <group group_id="sitemap" display_order="3500" debug_only="0"/>
+  <group group_id="spam" display_order="660" debug_only="0"/>
+  <group group_id="stats" display_order="70" debug_only="0"/>
+  <group group_id="tagging" display_order="650" debug_only="0"/>
+  <group group_id="users" display_order="120" debug_only="0"/>
+  <group group_id="usersAndRegistration" display_order="110" debug_only="0"/>
+</option_groups>
